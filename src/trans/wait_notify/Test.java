@@ -1,4 +1,4 @@
-package trans.wait_notify_size5;
+package trans.wait_notify;
 
 public class Test {
     public static void main(String[] args) {

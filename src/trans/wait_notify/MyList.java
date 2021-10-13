@@ -1,4 +1,4 @@
-package trans.wait_notify_size5;
+package trans.wait_notify;
 
 import java.util.ArrayList;
 import java.util.List;
