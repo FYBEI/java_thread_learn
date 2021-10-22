@@ -1,4 +1,4 @@
-package singleton.DCL;
+package java_thread.singleton.DCL;
 
 import java.util.Random;
 

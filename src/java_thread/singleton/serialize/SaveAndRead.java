@@ -1,4 +1,4 @@
-package singleton.serialize;
+package java_thread.singleton.serialize;
 
 import java.io.*;
 

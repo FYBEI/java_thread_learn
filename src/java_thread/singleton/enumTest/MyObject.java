@@ -1,7 +1,6 @@
-package singleton.enumTest;
+package java_thread.singleton.enumTest;
 
 import java.sql.Connection;
-import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 

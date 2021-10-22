@@ -1,4 +1,4 @@
-package Timer.task;
+package java_thread.task;
 
 import java.util.Date;
 import java.util.Timer;

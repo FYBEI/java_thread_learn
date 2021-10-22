@@ -1,4 +1,4 @@
-package singleton.staticTest;
+package java_thread.singleton.staticTest;
 
 public class MyObject2 {
     private static MyObject2 myObject = null;
